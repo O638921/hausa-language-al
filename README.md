@@ -1,2 +1,40 @@
-Initial project upload # hausa-language-al
-Building Inclusive AI for African Languages: Exploring the Mozilla Data Collective Hausa Speech Dataset
+
+# Building Inclusive AI for African Languages
+
+## Overview
+
+This project explores the Mozilla Data Collective Hausa Speech Dataset to understand how community-driven multilingual datasets can improve artificial intelligence for underrepresented African languages.
+
+The project promotes inclusive, ethical, and accessible AI by encouraging the use of open datasets for speech recognition, language preservation, and AI research across Africa.
+
+## Objectives
+
+- Explore the Hausa Speech Dataset.
+- Understand multilingual speech datasets.
+- Support inclusive AI for African languages.
+- Promote responsible AI development.
+- Share findings with the open-source community.
+
+## Dataset
+
+- Mozilla Data Collective Hausa Speech Dataset
+
+## Tools
+
+- Python
+- Jupyter Notebook
+- GitHub
+
+## Expected Outcomes
+
+- Better understanding of African language datasets.
+- Practical experience with speech AI.
+- Open documentation for researchers and developers.
+
+## Author
+
+**Charlie Adonis Ekpekho**
+
+Founder, Africa Cybersecurity and Criminals Investigation OSINT Lab (ACOL)
+
+Nigeria
