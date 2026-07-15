@@ -1,19 +1,18 @@
-README ai
-# Building Inclusive AI for African Languages
+Building Inclusive AI for African Languages
 
 ## Overview
 
 This project explores the Mozilla Data Collective Hausa Speech Dataset to understand how community-driven multilingual datasets can improve artificial intelligence for underrepresented African languages.
 
-The project promotes inclusive, ethical, and accessible AI by encouraging the use of open datasets for speech recognition, language preservation, and AI research across Africa.
+The project aims to promote inclusive, ethical, and accessible AI by encouraging the use of open datasets for speech recognition, language preservation, and AI research across Africa.
 
 ## Objectives
 
-- Explore the Hausa Speech Dataset.
-- Understand multilingual speech datasets.
+- Explore the Mozilla Data Collective Hausa Speech Dataset.
+- Understand the role of multilingual speech datasets in AI.
 - Support inclusive AI for African languages.
-- Promote responsible AI development.
-- Share findings with the open-source community.
+- Promote responsible and ethical AI development.
+- Share project findings with the open-source community.
 
 ## Dataset
 
@@ -27,14 +26,23 @@ The project promotes inclusive, ethical, and accessible AI by encouraging the us
 
 ## Expected Outcomes
 
-- Better understanding of African language datasets.
-- Practical experience with speech AI.
-- Open documentation for researchers and developers.
+- Improved understanding of African language datasets.
+- Practical experience working with speech AI datasets.
+- Open documentation for researchers, developers, and the AI community.
+
+## Future Work
+
+- Explore additional African language datasets.
+- Build simple speech recognition experiments.
+- Contribute improvements to open-source AI projects.
+
+## License
+
+This project is licensed under the MIT License.
 
 ## Author
 
 **Charlie Adonis Ekpekho**
 
-Founder, Africa Cybersecurity and Criminals Investigation OSINT Lab (ACOL)
-
-Nigeria
+Founder & Executive Director  
+Africa Cybersecurity and Crime Investigation OSINT Lab (ACOL)
